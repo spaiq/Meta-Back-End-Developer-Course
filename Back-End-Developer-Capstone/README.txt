@@ -10,7 +10,7 @@ To work with the project installing a venv is required. If you don't have it mak
 
 pip install virtualenv
 
-You can do that by using the following command inside the project directory:
+Next, creating the venv is necessary. You can do that by using the following command inside the project directory:
 
 python -m venv venv
 
