@@ -19,6 +19,12 @@ from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from restaurant import views
 
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework.authentication.TokenAuthentication',
+    ],
+}
+
 router = DefaultRouter()
 router.register('tables', views.BookingViewSet)
 
