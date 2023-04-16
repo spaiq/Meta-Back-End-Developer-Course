@@ -1,3 +1,4 @@
-/auth/users/  #Use this path to register
+/auth/users/                #Use this path to register
 /restaurant/api-token-auth/ #Use this path to get your auth token
-/restaurant/bookings/ #Use this path to test the get response
+/restaurant/bookings/tables #Use this path to test
+/restaurant/menu            #Use this path to test
