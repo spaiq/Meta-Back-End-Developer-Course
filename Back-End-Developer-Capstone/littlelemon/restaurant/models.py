@@ -1,6 +1,7 @@
 from django.db import models
 
-class Menu(models.Model):
+class Booking(models.Model):
     name = models.CharField(max_length=255)
     no_of_guests = models.IntegerField()
     bookingDate = models.DateTimeField()
+    
