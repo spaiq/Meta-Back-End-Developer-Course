@@ -1,3 +1,10 @@
+# Back-End Developer Capstone
+
+This directory contains my capstone project for the Meta Backend Developer course.
+
+Please note that this project is not open for contributions. It is here to showcase my solutions to the practical exercises from the course.
+
+# Information for the reviewer
 /auth/users/                #Use this path to register
 /restaurant/api-token-auth/ #Use this path to get your auth token
 /restaurant/bookings/tables #Use this path to test
