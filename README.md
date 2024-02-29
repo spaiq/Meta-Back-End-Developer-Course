@@ -15,7 +15,3 @@ Back-End-Developer-Capstone directory contains its own `README.md` file explaini
 ## Note
 
 This project is not open for contributions. It is here to showcase my solutions to the practical exercises from the course.
-
-## License
-
-This project is licensed under the terms of the MIT license.
